@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Did you know the first computer bug was an actual moth?**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byRob1n" alt="byrob1n" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
